@@ -32,11 +32,13 @@ pip install -r requirements.txt
 ## Usage:
 
 1. Run the `train.py` script to train the model:
-Use code with caution.
-python train.py
+   ```
+   python train.py
+   ```
 2. Run the `pred.py` script to perform prediction on new images and visualize the results:
-Use code with caution.
-python pred.py
+   ```
+   python pred.py
+   ```
 ## Notes:
 
 - This project is intended as a starting point for scoliosis detection.
