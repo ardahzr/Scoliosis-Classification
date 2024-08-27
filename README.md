@@ -1,6 +1,7 @@
 # Scoliosis Detection Using YOLOv8x-Pose Model
 
 This project utilizes the YOLOv8x Pose model for scoliosis detection. It employs deep learning techniques to analyze spinal curvature and identify potential cases of scoliosis.
+Pre-trained model: https://drive.google.com/file/d/1ifkukI3JriXN0aD_5HMH5NqfvR-FKWEp/view?usp=sharing
 
 ## Project Stages:
 
@@ -23,9 +24,7 @@ This project utilizes the YOLOv8x Pose model for scoliosis detection. It employs
 
 ## Installation:
 
-1. Install the required packages:
-Use code with caution.
-pip install -r requirements.txt
+1. Install the required packages
 2. Download the dataset in COCO format and place it in the `data` directory.
 3. Update the `config.yaml` file with your training parameters.
 
