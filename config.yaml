@@ -1,0 +1,18 @@
+# Data
+path: #image path
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Keypoints
+kpt_shape: [15, 2]  # [number of keypoints, number of dim]
+flip_idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+
+# Classes
+names:
+  0: 0
+  1: 1A
+  2: 1B
+  3: 1C
+  4: 3C
+  5: 5C
+  6: 6C
