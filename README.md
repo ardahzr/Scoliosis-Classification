@@ -40,6 +40,7 @@ Pre-trained model: https://drive.google.com/file/d/1ifkukI3JriXN0aD_5HMH5NqfvR-F
    ```
 ## Notes:
 
+
 - This project is intended as a starting point for scoliosis detection.
 - Using larger and more diverse datasets is recommended for more accurate results.
 - The performance of the model can be further improved by tuning the hyperparameters.
@@ -49,3 +50,5 @@ Pre-trained model: https://drive.google.com/file/d/1ifkukI3JriXN0aD_5HMH5NqfvR-F
 - Estimation of scoliosis curvature degree.
 - 3D spine reconstruction.
 - Providing personalized recommendations for scoliosis treatment.
+
+  ![download (1)](https://github.com/user-attachments/assets/017be302-1c86-4dbc-9d92-5e6b438cd1d4)
