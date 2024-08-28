@@ -51,4 +51,8 @@ Pre-trained model: https://drive.google.com/file/d/1ifkukI3JriXN0aD_5HMH5NqfvR-F
 - 3D spine reconstruction.
 - Providing personalized recommendations for scoliosis treatment.
 
-  ![download (1)](https://github.com/user-attachments/assets/017be302-1c86-4dbc-9d92-5e6b438cd1d4)
+  
+![downl![download (3)](https://github.com/user-attachments/assets/20b3e1ac-626f-4abe-846d-8522f21e8484)
+oad (2)](https://github.com/user-attachments/assets/a1a8df9c-0128-42ff-a138-9dbdab86af77)
+![download](https://github.com/user-attachments/assets/d4820a5f-702c-4c5e-ba02-f2bad2be15df)
+![download (1)](https://github.com/user-attachments/assets/017be302-1c86-4dbc-9d92-5e6b438cd1d4)
