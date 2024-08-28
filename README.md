@@ -52,7 +52,7 @@ Pre-trained model: https://drive.google.com/file/d/1ifkukI3JriXN0aD_5HMH5NqfvR-F
 - Providing personalized recommendations for scoliosis treatment.
 
 ## Predictions:
-![downl![download (3)](https://github.com/user-attachments/assets/20b3e1ac-626f-4abe-846d-8522f21e8484)
+![download (3)](https://github.com/user-attachments/assets/20b3e1ac-626f-4abe-846d-8522f21e8484)
 ![download](https://github.com/user-attachments/assets/d4820a5f-702c-4c5e-ba02-f2bad2be15df)
 ![download (1)](https://github.com/user-attachments/assets/017be302-1c86-4dbc-9d92-5e6b438cd1d4)
 ![download (2)](https://github.com/user-attachments/assets/8d3dc894-1b5d-4854-bcd7-aa12e3fcace0)
