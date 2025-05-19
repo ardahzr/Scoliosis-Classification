@@ -49,8 +49,7 @@ Pre-trained model: https://drive.google.com/file/d/1UocMwBtklaWXiTsffcs1--yj1tN3
 ## Future Work:
 
 - Estimation of scoliosis curvature degree.
-- 3D spine reconstruction.
-- Providing personalized recommendations for scoliosis treatment.
+
 
 ## Predictions:
 ![download (3)](https://github.com/user-attachments/assets/20b3e1ac-626f-4abe-846d-8522f21e8484)
